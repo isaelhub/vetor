@@ -23,7 +23,11 @@
   
   void primUltimo(int vetp[])
   {
+<<<<<<< HEAD
          printf("Mudanca");
+=======
+         printf("IMPRESSAO");
+>>>>>>> origin/master
          printf ("\nPRIMEIRO ELEMENTO - %d\t   \nULTIMO ELEMENTO  - %d\t\n\n\n",vetp[0], vetp[4]);
   }
  /*    
@@ -33,7 +37,7 @@
       
       for (x=0; x<6; x++)
       {
-       // [%d] e o x vao mostrar a posição do número digitado
+       // [%d] e o x vao mostrar a posiÃ§Ã£o do nÃºmero digitado
        printf ("\t[%d] Digite um numero: ",x);
        scanf("%d",&vetp[x]);
        printf ("\n");
