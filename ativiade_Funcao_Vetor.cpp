@@ -25,6 +25,7 @@
   {
          printf("Mudanca!");
          printf("Mudanca_02!");
+         printf("Mudanca_03!");
     
          printf ("\nPRIMEIRO ELEMENTO - %d\t   \nULTIMO ELEMENTO  - %d\t\n\n\n",vetp[0], vetp[4]);
   }
