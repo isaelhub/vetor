@@ -23,6 +23,7 @@
   
   void primUltimo(int vetp[])
   {
+         printf("Mudanca");
          printf ("\nPRIMEIRO ELEMENTO - %d\t   \nULTIMO ELEMENTO  - %d\t\n\n\n",vetp[0], vetp[4]);
   }
  /*    
